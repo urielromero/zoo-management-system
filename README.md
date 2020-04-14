@@ -12,6 +12,10 @@ Depending on your selection, the system proceeds to ask specific questions to co
 
 Finally, the program gives you a summary of the requirements being tracked in the zoo. Then process is repeated until you exit the program by choosing the appropriate selection.
 
+
+*See PHOTOS for reference*
+
+
 This is a great project to demonstrate the four pillars of object-oriented programming-in this case JAVA. These are: Abstraction, Encapsulation, Inheritance and 
 Polymorphism. 
 
